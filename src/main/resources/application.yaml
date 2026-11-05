@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: clienttracker
+  jpa:
+    hibernate:
+      ddl-auto: update
